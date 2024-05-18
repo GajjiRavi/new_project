@@ -1,2 +1,2 @@
 echo "jenkins file"
-mkdir f1
+ll
